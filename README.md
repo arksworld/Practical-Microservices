@@ -33,4 +33,5 @@ To run examples given in this book, it is recommended that you have a Linux-flav
 
 Test text goes here
 
-* [Test Link Text](http://www.google.com)
+* [Test Link Text](https://www.google.com)
+* [Test Link Text2](http://www.youtube.com)
